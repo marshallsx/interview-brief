@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32526531/README.md)
 # Interview Brief: a Claude skill
 
 Turn a job advert and your CV into a full interview preparation document, as a Word file.
